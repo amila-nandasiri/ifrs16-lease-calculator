@@ -1,0 +1,9 @@
+lease_name,asset_class,commencement_date,term_months,payment,frequency,timing,escalation_pct,discount_rate_pct,initial_direct_costs,lease_incentives,restoration_cost,residual_value_guarantee,purchase_option,useful_life_months,exemption
+Twin Otter seaplane 8Q-TMA,Aircraft,2024-01-01,96,55000,monthly,advance,2,7.5,25000,0,120000,0,0,,none
+Twin Otter seaplane 8Q-TMB,Aircraft,2026-04-01,72,58000,monthly,advance,2.5,8,20000,50000,120000,0,0,,none
+Twin Otter seaplane 8Q-TMC,Aircraft,2027-03-01,84,60000,monthly,advance,2.5,8,20000,0,120000,0,0,,none
+Seaplane terminal and hangar (Malé),Property,2023-07-01,120,90000,quarterly,advance,3,7,15000,0,80000,0,0,,none
+Head office (Malé),Property,2025-01-01,60,12000,monthly,advance,5,7.5,5000,12000,0,0,0,,none
+Ground support vehicles,Vehicles,2025-06-01,36,4500,monthly,arrears,0,8.5,0,0,0,0,15000,72,none
+Staff accommodation (Hulhumalé),Property,2026-09-01,12,3000,monthly,advance,0,7.5,0,0,0,0,0,,short-term
+Office laptops,Equipment,2026-02-01,36,900,monthly,arrears,0,8,0,0,0,0,0,,low-value
